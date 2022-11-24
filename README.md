@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Balaji
-- 👀 I’m interested in ... Web development, Backend Development
+- 👀 I’m interested in ... Application Development Web development, Backend Development
 - 🌱 I’m currently learning ...flutter android app development
 - 
 - 
