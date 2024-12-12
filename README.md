@@ -1,4 +1,4 @@
-### Hi there 👋   I am **T A Balaji** I am an aspiring Full-stack Java Developer
+### Hi there 👋   I am **T A Balaji** I am an aspiring Software Engineer
 
 <!--
 **balaji0511/balaji0511** is a ✨ _special_ ✨ 
@@ -6,7 +6,7 @@
 ![background image](https://github.com/balaji0511/balaji0511/assets/111345284/be40f902-1c08-4937-993f-559b54c3f85e)
 
 
-I’m an aspiring Full-stack Java Developer ✨ with a passion for software and web development. I have a strong foundation in Java and frontend technologies including HTML5 and CSS3.
+I’m an aspiring Software Engineer ✨ with a passion for software and web development. I have a strong foundation in Java and frontend technologies including HTML5 and CSS3.
 🌱 I’m currently learning software development technologies and also improving my problem solving ✨, leadership skills.
 
 Visitor Count of my profile :
